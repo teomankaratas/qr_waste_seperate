@@ -1,16 +1,8 @@
 # qr_waste_seperate
 
-A new Flutter project.
+Qr kodları kullanarak katı atıkların ayrıştırılmasını kolaylaştırmak adına bitirme projemde yer alan örnek çalışma.
 
-## Getting Started
+![IMG_20230116_235523 1](https://user-images.githubusercontent.com/77941465/212765198-e35bdab6-6dc4-4f7b-9120-b5ecce1dfec7.jpg)
 
-This project is a starting point for a Flutter application.
+![IMG_20230116_235540 1](https://user-images.githubusercontent.com/77941465/212765251-7e0cc538-d112-4b22-bf3c-07b3671933b0.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
